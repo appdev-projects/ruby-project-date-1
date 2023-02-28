@@ -1,3 +1,3 @@
 # Ruby Practice
 
-This project is associated with the [`Date` chapter](https://firstdraft.github.io/appdev-textbook/date.html). The steps to open and run a GitPod project can be found [here](https://firstdraft.github.io/appdev-textbook/string.html#start-gitpod-project). 
+This project is associated with the [`Date` lesson](https://learn.firstdraft.com/lessons/12). The steps to open and run a Gitpod project can be found [here](https://learn.firstdraft.com/lessons/29).
