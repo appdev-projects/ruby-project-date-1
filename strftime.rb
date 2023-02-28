@@ -15,8 +15,6 @@ p "It is #{t.strftime("%A %B %eth at %I:%M %P")}"
 
 # ~~~~~ Specs (make it do these things) ~~~~~
 #
-# monday.rb should output 'Is today Monday? false', when today is not Monday 
-#
-# monday.rb should output 'Is today Monday? false', when today is not Monday 
+# strftime.rb should output ...
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
