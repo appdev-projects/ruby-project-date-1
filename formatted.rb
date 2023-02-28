@@ -4,13 +4,14 @@
 #
 #   "The year is: 2022, the calendar day is: 1, and the month is: 7."
 #
-# Use exactly the same copy ("The year is...") as above in the output.
-# but replace values using string addition or string interpolation.
+# Use exactly the same copy ("The year is...") as above in the output
+# but replace the values using string addition or string interpolation.
 # 
 # Don't forget to:
 #   
 #    require "date"
 #
+# at the top of your code.
 
 
 

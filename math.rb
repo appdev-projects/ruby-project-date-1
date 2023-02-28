@@ -1,6 +1,6 @@
 # Should output the number of days since Ruby was made.
 #
-# (Ruby released to the public on `December 21, 1995`.)
+# (Ruby released to the public on December 21, 1995.)
 # 
 # Output:
 #
@@ -8,8 +8,6 @@
 #
 # Use exactly the same copy ("Ruby is...") as above in the output.
 # but replace the value using string addition or string interpolation
-# (don't forget to convert the value to an integer and then to a string
-# if you use string addition).
 
 
 
